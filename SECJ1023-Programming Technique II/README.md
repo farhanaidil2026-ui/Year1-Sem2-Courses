@@ -20,7 +20,7 @@ Building upon the fundamentals from my first semester, this course marked my tra
 
 ---
 
-## 📖 Topics We Covered
+## 📖 Course Content
 
 | Topic | Description |
 | --- | --- |
