@@ -38,8 +38,6 @@ Probability and Statistical Data Analysis is all about making sense of data and 
 
 ```
 
----
-
 ## 🎯 Learning Experience
 
 ### Knowledge Developed
