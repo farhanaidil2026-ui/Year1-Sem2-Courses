@@ -14,7 +14,7 @@
 
 **Student:** Muhammad Aidil Farhan
 
-### What This Course Is About
+### About the Course
 
 Building upon the fundamentals from my first semester, this course marked my transition from procedural programming to Object-Oriented Programming (OOP) using C++. The coursework focused heavily on modeling real-world problems through classes, objects, and data abstraction. Through extensive hands-on projects, I learned how to build modular, scalable, and reusable code, laying a much more advanced framework for my future software development endeavors.
 
