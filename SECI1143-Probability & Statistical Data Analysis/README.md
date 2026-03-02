@@ -22,8 +22,6 @@ Probability and Statistical Data Analysis is all about making sense of data and 
 
 ## 📖 Course Content
 
-```
-
 | Topic | Description |
 | --- | --- |
 | **1** | Introduction to Statistics |
