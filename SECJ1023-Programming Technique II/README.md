@@ -57,13 +57,13 @@ Moving past simple algorithms into building multi-file, object-oriented applicat
 
 ---
 
-## 💡 Course Effectiveness
+## 💡 Reflections
 
-### What Worked
+### What I Appreciated
 
 The project-based assignments were the highlight of the course. OOP concepts can feel very abstract when just reading about them, but having to design an actual management system forced me to understand exactly how classes communicate. The transition from single-file procedural code to multi-file header and implementation structures was handled very well.
 
-### Areas for Improvement
+### Room for Improvement
 
 I think the course could be even better with:
 
@@ -74,7 +74,7 @@ I think the course could be even better with:
 
 ---
 
-## 🌟 Final Thoughts
+## 🌟 Closing Thoughts
 
 SECJ1023 has elevated my programming capabilities from writing simple problem-solving scripts to architecting scalable applications. The object-oriented mindset I developed here is universally applicable, whether I'm continuing with C++, shifting to Python, or diving into Java. As someone heading toward data engineering, understanding how to encapsulate data, build robust architectures, and write maintainable code is absolutely vital. This course proved to be a challenging but essential stepping stone.
 
