@@ -37,7 +37,7 @@ Building upon the fundamentals from my first semester, this course marked my tra
 
 ## 🎯 My Learning Journey
 
-### What I Gained
+### Knowledge Developed
 
 This course fundamentally shifted how I think about structuring software. Instead of just writing a top-down list of instructions, I learned to design blueprints (classes) and map out how different objects interact with one another. Mastering concepts like inheritance to reuse code and polymorphism to design flexible functions required a complete mindset shift, but it made my programs significantly more organized and efficient.
 
