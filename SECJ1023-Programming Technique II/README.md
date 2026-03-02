@@ -47,7 +47,7 @@ This course fundamentally shifted how I think about structuring software. Instea
 
 Moving past simple algorithms into building multi-file, object-oriented applications was a massive step up. Seeing a complex class hierarchy come together perfectly without memory leaks or segmentation faults was incredibly rewarding. It felt less like writing scripts and more like engineering actual software systems.
 
-**Technical Skills Built**
+**Skills Enhancement**
 
 * Designing and implementing class structures and UML diagrams
 * Managing access specifiers for secure data encapsulation
