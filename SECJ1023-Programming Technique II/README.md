@@ -25,7 +25,7 @@ Building upon the fundamentals from my first semester, this course marked my tra
 | Topic | Description |
 | --- | --- |
 | **1** | Introduction to Object-Oriented Programming |
-| **2** | Classes and Objects |
+| **2** | Introduction to Classes and Objects |
 | **3** | Encapsulation and Data Hiding |
 | **4** | Inheritance |
 | **5** | Polymorphism and Virtual Functions |
