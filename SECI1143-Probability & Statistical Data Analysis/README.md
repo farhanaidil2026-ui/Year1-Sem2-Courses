@@ -36,7 +36,7 @@ Probability and Statistical Data Analysis is all about making sense of data and 
 | **7.2** | Regression Analysis |
 | **8** | Analysis of Variance (ANOVA) |
 
-``````
+---
 
 ## 🎯 Learning Experience
 
