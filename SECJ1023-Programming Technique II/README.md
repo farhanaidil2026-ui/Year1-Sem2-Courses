@@ -28,7 +28,7 @@ Building upon the fundamentals from my first semester, this course marked my tra
 | **2** | Introduction to Classes and Objects |
 | **3** | Constructors and Destructors|
 | **4** | Class and Object Manipulation |
-| **5** | Polymorphism and Virtual Functions |
+| **5** | Strings Manipulation |
 | **6** | Composition and Aggregation |
 | **7** | Exception Handling |
 | **8** | Advanced File Operations |
