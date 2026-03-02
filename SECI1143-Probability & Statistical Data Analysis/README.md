@@ -65,7 +65,7 @@ At first, calculating some of the test statistics felt a bit abstract, but once 
 
 The structured progression from basic data description to more complex topics like ANOVA and Regression made sense. Each chapter built on the previous one, so by the end, I could see how to conduct a full statistical study from scratch. The problem sets challenged me to really interpret the results and what they mean contextually, rather than just memorizing formulas.
 
-### Room for Enhancement
+### Room for Improvement
 
 I think the course would be even more engaging with:
 
