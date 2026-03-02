@@ -23,17 +23,20 @@ Probability and Statistical Data Analysis is all about making sense of data and 
 ## 📖 Course Content
 
 ```
-Chapter 1 → Introduction to Statistics
-Chapter 2 → Data Description
-Chapter 3 → Descriptive Statistics
-Chapter 4 → Probability Random Var
-Chapter 5.1 → Point Estimate
-Chapter 5.2 → Hypothesis Testing (1 Sample Test)
-Chapter 5.3 → Hypothesis Testing (2 Sample Test)
-Chapter 6 → Chi-Square Test and Contigency Analysis
-Chapter 7.1 → Correlation Analysis
-Chapter 7.2 → Regression Analysis
-Chapter 8 → Analysis of Variance (ANOVA)
+
+| Topic | Description |
+| --- | --- |
+| **1** | Introduction to Statistics |
+| **2** | Data Description |
+| **3** | Descriptive Statistics |
+| **4** | Probability Random Var |
+| **5.1** | Point Estimate |
+| **5.2** | Hypothesis Testing (1 Sample Test) |
+| **5.3** | Hypothesis Testing (2 Sample Test) |
+| **6** | Chi-Square Test and Contigency Analysis |
+| **7.1** | Correlation Analysis |
+| **7.2** | Regression Analysis |
+| **8** | Analysis of Variance (ANOVA) |
 
 ```
 
