@@ -31,7 +31,8 @@ Building upon the fundamentals from my first semester, this course marked my tra
 | **5** | Strings Manipulation |
 | **6** | Association, Composition and Aggregation |
 | **7** | Inheritance |
-| **8** | Advanced File Operations |
+| **8** | Polymorphism |
+| **9** | Advanced Features |
 
 ---
 
