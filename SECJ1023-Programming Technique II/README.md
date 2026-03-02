@@ -30,7 +30,7 @@ Building upon the fundamentals from my first semester, this course marked my tra
 | **4** | Class and Object Manipulation |
 | **5** | Strings Manipulation |
 | **6** | Association, Composition and Aggregation |
-| **7** | Exception Handling |
+| **7** | Inheritance |
 | **8** | Advanced File Operations |
 
 ---
