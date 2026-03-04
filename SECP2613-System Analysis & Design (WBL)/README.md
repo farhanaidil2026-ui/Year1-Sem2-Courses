@@ -1,4 +1,4 @@
-# [Course Code]: System Analysis and Design (WBL)
+SECP3204: System Analysis and Design (WBL)
 
 > **Universiti Teknologi Malaysia (UTM)** > Semester 2, 2025/2026
 
@@ -27,13 +27,11 @@ System Analysis and Design (with Work-Based Learning) bridges the gap between ra
 | **1** | Introduction to Software Engineering |
 | **2** | Software Process Model |
 | **3** | Agile Development |
-| **4** | Agile vs. Traditional SDLC Methodologies |
-| **5** | System Process Modeling (DFDs) |
-| **6** | Object-Oriented Modeling (UML & Use Cases) |
-| **7** | Data Modeling and Database Design |
-| **8** | System Architecture and UI/UX Design |
-| **9** | System Implementation, Testing, and Deployment |
-| **10** | Work-Based Learning (WBL) Industry Integration |
+| **4** | Requirements Engineering |
+| **5** | Requirements Analysis and Modeling |
+| **6** | Architectural Design |
+| **7** | Object-Oriented Detailed Design |
+| **8** | Software V&V Testing |
 
 ---
 
