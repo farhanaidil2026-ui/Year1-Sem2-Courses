@@ -16,7 +16,7 @@
 
 ### About the Course
 
-System Analysis and Design (with Work-Based Learning) bridges the gap between raw programming and actual software engineering. This course introduced me to the Software Development Life Cycle (SDLC) and the methodologies used to plan, analyze, design, and implement information systems. Because of the WBL component, it wasn't just theoretical—it focused heavily on how these concepts are applied in real-world industry settings to solve actual business problems.
+System Analysis and Design (with Work-Based Learning) bridges the gap between raw programming and actual software engineering. This course introduced me to the Software Development Life Cycle (SDLC) and the methodologies used to plan, analyze, design, and implement information systems. Because of the WBL component, it wasn't just theoretical, it focused heavily on how these concepts are applied in real-world industry settings to solve actual business problems.
 
 ---
 
