@@ -1,4 +1,4 @@
-SECP3204: System Analysis and Design (WBL)
+**SECP3204: System Analysis and Design (WBL)**
 
 > **Universiti Teknologi Malaysia (UTM)** > Semester 2, 2025/2026
 
