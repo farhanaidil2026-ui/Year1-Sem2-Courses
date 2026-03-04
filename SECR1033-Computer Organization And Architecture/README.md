@@ -24,14 +24,14 @@ Computer Organization and Architecture bridges the gap between software and hard
 
 | Topic | Description |
 | --- | --- |
-| **1** | Introduction to Computer Systems & Architecture |
-| **2** | Data Representation and Number Systems |
-| **3** | Boolean Algebra and Logic Gates |
-| **4** | Combinational and Sequential Circuits |
-| **5** | Instruction Set Architecture (ISA) & Assembly Language |
-| **6** | The Central Processing Unit (CPU) & Datapath |
-| **7** | Memory Hierarchy and Cache Organization |
-| **8** | Input/Output Organization and Pipelining |
+| **1** | Introduction |
+| **2** | Data Representation in Computer Science |
+| **3** | Introduction into Assembly Language Programming |
+| **4** | Instruction Set Architecture (ISA) |
+| **5** | Central Processing Unit (CPU) |
+| **6** | Memory |
+| **7** | I/O and Storage Systems |
+| **8** | Performance Measurement Analysis |
 
 ---
 
