@@ -6,7 +6,7 @@
 
 ## 📋 Course Details
 
-**Course Code:** [Insert Course Code]
+**Course Code:** SECP3204
 
 **Instructor:** Dr. Aryati binti Bakri
 
