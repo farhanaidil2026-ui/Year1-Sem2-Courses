@@ -2,7 +2,7 @@
 
 **Evaluated by:** Aidil Farhan  
 **Date:** 2026-03-20  
-**Project Role / Primary Focus:** Group Leader
+**Project Role / Primary Focus:** UI/UX Design
 
 ---
 
@@ -12,11 +12,11 @@
 
 | Evaluation Criteria | Score (1-5) | Notes / Specifics |
 | :--- | :---: | :--- |
-| **Technical Contribution** <br> *Code quality, logic design, problem-solving* | [ ] | *[Brief note on their technical output]* |
-| **Version Control & Docs** <br> *Clear commits, code comments, documentation* | [ ] | *[Brief note on their GitHub habits]* |
-| **Communication** <br> *Responsiveness, clarity in discussions* | [ ] | *[Brief note on communication]* |
-| **Reliability** <br> *Meeting deadlines, attendance, dependability* | [ ] | *[Brief note on reliability]* |
-| **Teamwork** <br> *Code reviews, helping others, receptiveness to feedback* | [ ] | *[Brief note on collaboration]* |
+| **Technical Contribution** <br> *Code quality, logic design, problem-solving* | [ ] | *-* |
+| **Version Control & Docs** <br> *Clear commits, code comments, documentation* | [ ] | *-* |
+| **Communication** <br> *Responsiveness, clarity in discussions* | [ ] | *-* |
+| **Reliability** <br> *Meeting deadlines, attendance, dependability* | [ ] | *-* |
+| **Teamwork** <br> *Code reviews, helping others, receptiveness to feedback* | [ ] | *-* |
 
 **Total Score:** **[ ] / 25**
 
